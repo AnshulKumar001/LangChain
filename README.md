@@ -1,4 +1,4 @@
-# 📘 LangChain 
+# 📘 LangChain (Agantic Ai)
 
 This repository contains my **LangChain learning notes**.  
 I created this repo to share what I have studied and practiced while learning LangChain.
